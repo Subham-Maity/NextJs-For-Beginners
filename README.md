@@ -2,8 +2,9 @@
 
 This is a comprehensive tutorial on Next.js 13, the popular React framework for building server-rendered applications with JavaScript. You will learn everything from the basics of Next.js to advanced topics like dynamic routing, API routes, data fetching, authentication, SEO optimization, and more. You will also build several projects along the way, including a blog app, an e-commerce app, a social media app, and more. By the end of this tutorial, you will have the skills and confidence to create your own web applications using Next.js 13. 😎
 
-![1_sCAcRaLMW9TdBlAYYmcGRQ](https://user-images.githubusercontent.com/97989643/224072285-79ecd54d-568c-413d-aaa1-88794620bf2e.gif)
 
+
+![1_sCAcRaLMW9TdBlAYYmcGRQ-min](https://user-images.githubusercontent.com/97989643/224083703-3ff76407-fa86-422e-85a7-4c0c44221f20.gif)
 
 
 ## What you will learn 📚
