@@ -6,6 +6,14 @@ This is a comprehensive tutorial on Next.js 13, the popular React framework for 
 
 ![1_sCAcRaLMW9TdBlAYYmcGRQ-min](https://user-images.githubusercontent.com/97989643/224083703-3ff76407-fa86-422e-85a7-4c0c44221f20.gif)
 
+## Content List for *React* (2023) ▶️
+
+>  ### (Check out the website [here](https://codexam.vercel.app/docs/next))
+---
+| **Day** | **Chapter Name** | **Read on Website** | **Read on GitHub** |
+|-----|--------------|-----------------|----------------|
+| **1**   | Introduction | [Check Here for Better Experience ](https://codexam.vercel.app/docs/next/next1) | [Check Here](https://github.com/Subham-Maity/NextJs-For-Beginners/tree/main/01.%20Introduction) |
+
 
 ## What you will learn 📚
 
