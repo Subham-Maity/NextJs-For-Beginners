@@ -1,78 +1,46 @@
-# Node.js Tutorial 🚀
+# Next.js 13 Tutorial 🚀
 
-This is a comprehensive tutorial on Node.js, the popular JavaScript runtime built on the V8 engine. You will learn everything from the basics of Node.js to advanced topics like asynchronous programming, modules, package management, web frameworks, and more. You will also build several projects along the way, including a command-line interface, a RESTful API, and a real-time chat app. By the end of this tutorial, you will have the skills and confidence to create your own server-side applications using Node.js. 😎
+This is a comprehensive tutorial on Next.js 13, the popular React framework for building server-rendered applications with JavaScript. You will learn everything from the basics of Next.js to advanced topics like dynamic routing, API routes, data fetching, authentication, SEO optimization, and more. You will also build several projects along the way, including a blog app, an e-commerce app, a social media app, and more. By the end of this tutorial, you will have the skills and confidence to create your own web applications using Next.js 13. 😎
+
+
+
+![1_sCAcRaLMW9TdBlAYYmcGRQ-min](https://user-images.githubusercontent.com/97989643/224083703-3ff76407-fa86-422e-85a7-4c0c44221f20.gif)
 
 ## Content List for *React* (2023) ▶️
 
->  ### (Check out the website [here](https://codexam.vercel.app/docs/node))
-
+>  ### (Check out the website [here](https://codexam.vercel.app/docs/next))
+---
 | **Day** | **Chapter Name** | **Read on Website** | **Read on GitHub** |
-| --- | --- | --- | --- |
-| Day 1 | Introduction to Node js and the Course |  |  |
-| Day 2 | Basic Concepts and Theory of Node js |  |  |
-| Day 3 | How to Install and Set Up Node js |  |  |
-| Day 4 | Writing Your First Node js Script |  |  |
-| Day 5 | Node js Fundamentals and Features |  |  |
-| Day 6 | Using Core Modules in Node js |  |  |
-| Day 7 | Creating a Basic Server with Node js |  |  |
-| Day 8 | Understanding and Using package.json in Node js |  |  |
-| Day 9 | A Small Challenge for You to Test Your Skills |  |  |
-| Day 10 | What is Nodemon and How to Use it in Node js |  |  |
-| Day 11 |Building a Simple API with Node js |  |  |
-| Day 12 | Taking Input from the Command Line |  |  |
-| Day 13 | Listing Files with the File System Module |  |  |
-| Day 14 | Performing CRUD Operations with the File System Module |  |  |
-| Day 15 | Working with Asynchronous Node js |  |  |
-| Day 16 | Handling Asynchronous Data in Node js |  |  |
-| Day 17 | How Node js Works Behind the Scenes |  |  |
-| Day 18 | Introduction to Express js Framework |  |  |
-| Day 19 | Routing with Express.js |  |  |
-| Day 20 | Rendering HTML Pages with Node js |  |  |
-| Day 21 | Creating Dynamic HTML Pages with Node js |  |  |
-| Day 22 | Removing File Extensions from URLs |  |  |
-| Day 23 | Creating Dynamic Pages with EJS |  |  |
-| Day 24 | Dynamic Page in Node.js |  |  |
-| Day 25 | Middleware in Node.js |  |  |
-| Day 26 | Using Route-Level Middleware in Express js |  |  |
-| Day 27 | Installing MongoDB for Node js |  |  |
-| Day 28 | Basics of MongoDB Database |  |  |
-| Day 29 | Performing CRUD Operations with MongoDB |  |  |
-| Day 30 | Connecting MongoDB with Node js |  |  |
-| Day 31 | Reading Data from MongoDB to Node.js |  |  |
-| Day 32 | Inserting Data from MongoDB to Node.js |  |  |
-| Day 33 | Updating Data from MongoDB to Node.js |  |  |
-| Day 34 | Deleting Data from MongoDB to Node.js |  |  |
-| Day 35 | GET API with MongoDB and Node.js |  |  |
-| Day 36 | POST API Method with Node.js and MongoDB |  |  |
-| Day 37 | Building PUT APIs with MongoDB and Node js |  |  |
-| Day 38 | Building DELETE APIs with MongoDB and Node js |  |  |
-| Day 39 | Introduction to Mongoose Library |  |  |
-| Day 40 | Performing CRUD Operations with Mongoose |  |  |
-| Day 41 | Building POST APIs with Mongoose |  |  |
-| Day 42 | Building GET, DELETE and PUT APIs with Mongoose |  |  |
-| Day 43 | Building Search APIs with Mongoose |  |  |
-| Day 44 | Using OS Module in Node js |  |  |
-| Day 45 | CRUD Operations in Node.js |  |  |
-| Day 46 | Using Events and Event Emitter in Node js |  |  |
-| Day 47 | Using REPL in Node js |  |  | 
-| Day 48 | Connecting Node js with MySQL Database |  |  | 
-| Day 49 | Building POST APIs with Node js and MySQL |  |  |
-| Day 50 | Building PUT APIs with Node js and MySQL |  |  |
-| Day 51 | Building DELETE APIs with Node js and MySQL |  |  |
-| Day 52 | Comparing Node js and PHP |  |  |
+|-----|--------------|-----------------|----------------|
+| **1**   | Introduction | [Check Here for Better Experience ](https://codexam.vercel.app/docs/next/next1) | [Check Here](https://github.com/Subham-Maity/NextJs-For-Beginners/tree/main/01.%20Introduction) |
 
-## Prerequisites 📋
-
-Before diving into Node.js, you should have a basic understanding of JavaScript and web development concepts.
-
-## Projects you will build 🛠️
-
-Throughout this content list, you will learn how to build various projects with Node.js, including building servers, creating APIs, connecting to databases, and more.
 
 ## What you will learn 📚
 
-By the end of this content list, you will have a strong understanding of Node.js and be able to build your own applications using this technology.
+* How to set up your development environment for Next.js 13
+* How to create and navigate pages using Next.js
+* How to create dynamic routes and use parameters
+* How to use API routes to create custom endpoints
+* How to fetch data from external APIs using `getStaticProps` and `getServerSideProps`
+* How to authenticate users using JSON Web Tokens (JWT)
+* How to optimize your app for search engines using metadata and sitemaps
+* How to use CSS modules, Tailwind CSS, and Styled Components for styling your web app
+* How to deploy your app with Vercel or any other hosting service
 
+## Projects you will build 🛠️
+
+* Blog App: A blog app that lets you create, read, update, and delete posts using Next.js, MongoDB, and Material UI.
+* E-commerce App: An e-commerce app that lets you browse, search, and buy products using Next.js, Stripe, and Commerce.js.
+* Social Media App: A social media app that lets you create a profile, follow other users, and post updates using Next.js, Firebase, and Chakra UI.
+
+## Prerequisites 📋
+
+To follow this tutorial, you should have:
+
+- Basic knowledge of HTML, CSS, JavaScript, and React
+- A computer (Windows/Mac/Linux) with internet access
+- A code editor (VS Code recommended)
+- A browser (Chrome/Firefox/Safari)
 
 ## How to start 🚀
 
@@ -83,8 +51,6 @@ To start this tutorial:
 2. Open each project folder in your code editor.
 
 3. Follow the instructions in each project's README file.
-
-Once you have Node.js installed, clone this repository and navigate to the project directory in your terminal. From there, you can follow along with the course by running the examples in each section.
 
 ## Contributing 💖
 
